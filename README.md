@@ -6,7 +6,7 @@ EL MPU6050
 
 Para entender e MPU6050 necesitamos comprender su funcionamiento y como funciona. EL MPU6050 es una unidad de medición inercial o IMU (Inertial Measurment Units) de 6 grados de libertad (DoF) pues combina un acelerómetro de 3 ejes y un giroscopio de 3 ejes. Este sensor es muy utilizado en navegación, goniometría, estabilización, etc.
 
-<img src="https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/MPU6050.jpeg?token=GHSAT0AAAAAACIR6Y6OODFCTQJE333VLOMIZJ4HEXQ>
+<img src="https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/MPU6050.jpeg?token=GHSAT0AAAAAACIR6Y6OODFCTQJE333VLOMIZJ4HEXQ">
 
 Aceleración y acelerómetros
 
