@@ -23,7 +23,7 @@ Con el acelerómetro podemos hacer mediciones indirectas como por ejemplo si int
 
 Conexión 
 
-<img src="https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/Conexiones%20MPU6050.jpg?token=GHSAT0AAAAAACIR6Y6O7NJMHH2VOPUGMHZSZJ4HBIA">
+<img src="[https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/Conexiones%20MPU6050.jpg?token=GHSAT0AAAAAACIR6Y6O7NJMHH2VOPUGMHZSZJ4HBIA](https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/Conexiones%20MPU6050.jpg?token=GHSAT0AAAAAACIR6Y6ON634IQ6EKE7XIQSQZJ4HNMA)">
 
  
 Programación 
