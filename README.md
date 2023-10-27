@@ -204,3 +204,11 @@ Un acelerómetro es un dispositivo que mide la vibración o la aceleración del 
 Una Unidad de Medida Inercial (IMU) es un dispositivo capaz de estimar y reportar estados dinámicos específicos como velocidades angulares y aceleraciones.
 
 CALCULANDO EL ÁNGULO DE INCLINACIÓN CON EL ACELERÓMETRO DEL MPU6050 
+
+Si tenemos en cuenta que la única fuerza que actúa sobre el sensor es la fuerza de la gravedad. Entonces los valores que obtenemos en las componentes del acelerómetro corresponden a la gravedad y los ángulos de la resultante serán la inclinación del plano del sensor, puesto que la gravedad siempre es vertical.
+
+Para entenderlo mejor, asumiremos que estamos en un plano X-Z e inclinamos el MPU6050 un ángulo θ, dicho ángulo se calcula de la siguiente forma:
+
+<img scr="https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/angulo%20inclinacion%20mpu6050.jpg">
+
+
