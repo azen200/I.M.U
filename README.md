@@ -23,7 +23,9 @@ https://github.com/azen200/I.M.U./upload/main/DOCS
 
 Conexión 
 
-https://github.com/azen200/I.M.U./upload/main/DOCS
+<img>
+    src="https://github.com/azen200/I.M.U./blob/main/DOCS/Conexiones%20MPU6050.jpg?raw=true"
+</img>
  
 Programación 
 
