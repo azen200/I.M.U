@@ -30,10 +30,10 @@ Este segundo concepto es utilizado por los acelerómetros para medir la acelerac
 Con un acelerómetro podemos medir esta aceleración, teniendo en cuenta que a pesar que no exista movimiento, siempre el acelerómetro estará sensando la aceleración de la gravedad.
 Con el acelerómetro podemos hacer mediciones indirectas como por ejemplo si integramos la aceleración en el tiempo tenemos la velocidad y si la integramos nuevamente tenemos el desplazamiento, necesitando en ambos casos la velocidad y la posición inicial respectivamente.
 
+https://github.com/azen200/I.M.U./upload/main/DOCS
+
+
 Conexión 
-
-
-
 
 
 
