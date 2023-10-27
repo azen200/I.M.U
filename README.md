@@ -16,10 +16,10 @@ Así mismo la segunda ley de Newton indica que en un cuerpo con masa constante, 
 a=F/m 
 Este segundo concepto es utilizado por los acelerómetros para medir la aceleración.	Los acelerómetros internamente tienen un MEMS(MicroElectroMechanical Systems) que de forma similar a un sistema masa resorte permite medir la aceleración. 
 
+<img src="https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/mpu6050.jpg?token=GHSAT0AAAAAACIR6Y6OJQQE6Y4WRAESN2KGZJ4HE4Q">
+
 Con un acelerómetro podemos medir esta aceleración, teniendo en cuenta que a pesar que no exista movimiento, siempre el acelerómetro estará sensando la aceleración de la gravedad.
 Con el acelerómetro podemos hacer mediciones indirectas como por ejemplo si integramos la aceleración en el tiempo tenemos la velocidad y si la integramos nuevamente tenemos el desplazamiento, necesitando en ambos casos la velocidad y la posición inicial respectivamente.
-
-https://github.com/azen200/I.M.U./upload/main/DOCS
 
 Conexión 
 
