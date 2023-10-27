@@ -209,6 +209,32 @@ Si tenemos en cuenta que la única fuerza que actúa sobre el sensor es la fuerz
 
 Para entenderlo mejor, asumiremos que estamos en un plano X-Z e inclinamos el MPU6050 un ángulo θ, dicho ángulo se calcula de la siguiente forma:
 
+
+<img scr="https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/angulo%20inclinacion%20mpu6050.jpg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img scr="https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/angulo%20inclinacion%20mpu6050.jpg">
 
 
