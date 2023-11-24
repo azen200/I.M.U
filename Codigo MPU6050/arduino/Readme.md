@@ -1,4 +1,5 @@
 Para calcular el ángulo de inclinación utilizando un MPU6050 con Arduino, puedes usar la biblioteca "Wire" para la comunicación I2C y la biblioteca "MPU6050" para facilitar la lectura de datos del sensor. Aquí hay un ejemplo básico de un programa en Arduino para calcular el ángulo de inclinación:
+
 #include <Wire.h>
 #include <MPU6050.h>
 
