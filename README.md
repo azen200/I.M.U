@@ -26,7 +26,7 @@ Conexión
 <img src="https://raw.githubusercontent.com/azen200/I.M.U./main/DOCS/Conexiones%20MPU6050.jpg?token=GHSAT0AAAAAACIR6Y6ON634IQ6EKE7XIQSQZJ4HNMA">
 
  
-Programación 
+Programación para realizar lecturas tanto como del giroscopio y del acelerometro
 
 // Librerias I2C para controlar el mpu6050
 // la libreria MPU6050.h necesita I2Cdev.h, I2Cdev.h necesita Wire.h
